@@ -79,4 +79,4 @@ PLATFORMS
 
 DEPENDENCIES
   rails (= 4.0.0)
-  sqlite3
+  pg
